@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/Reusme](https://bit.ly/Reusme)
+- 👨‍💻 All of my projects are available at [https://bolaajagunna.vercel.app](https://bolaajagunna.vercel.app)
 
 - 💬 Ask me about **react, vue**
 
 - 📫 How to reach me **bolaajagunna@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/Reusme](https://bit.ly/Reusme)
+- 📄 Know about my experiences [https://bit.ly/4hmPuhi](https://bit.ly/4hmPuhi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
